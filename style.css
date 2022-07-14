@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana;
+    color: rgb(184, 32, 37);
+}
+
+header, footer {
+    color: rgb(184, 32, 37);
+    text-align: center;
+    padding-top: 30px;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+}
+
+address {
+    text-align: center;
+}
+
+
+.price, th {
+    color: rgb(184, 32, 37);;
+  }
+
+.priceTwo {
+    color: blue;
+}
+
+.toppings {
+    color: black;
+}
